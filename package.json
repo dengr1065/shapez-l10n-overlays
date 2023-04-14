@@ -1,0 +1,19 @@
+{
+    "name": "shapez-l10n-overlays",
+    "version": "1.0.0",
+    "description": "Updated localization strings for shapez from the community",
+    "main": "scripts/generate.js",
+    "author": "dengr1065",
+    "license": "GPL-3.0-or-later",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "generate": "node ."
+    },
+    "dependencies": {
+        "yaml": "^2.2.1"
+    },
+    "devDependencies": {
+        "@types/node": "^18.15.11"
+    }
+}

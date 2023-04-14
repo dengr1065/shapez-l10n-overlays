@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "checkJs": true,
+        "module": "NodeNext",
+        "moduleResolution": "nodenext"
+    },
+    "include": ["scripts/**/*.js"],
+    "exclude": ["scripts/loader.mod.js"]
+}
